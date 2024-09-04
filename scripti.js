@@ -1,0 +1,6 @@
+alert("Hei!")
+console.log("eka hei")
+alert("Hei taas!")
+console.log("toinen hei")
+alert("ja tervetuloa!")
+console.log("tervetuloa")
